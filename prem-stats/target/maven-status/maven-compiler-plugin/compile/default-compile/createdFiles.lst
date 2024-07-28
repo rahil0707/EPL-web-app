@@ -1,0 +1,5 @@
+com/pl/prem_stats/player/PlayerService.class
+com/pl/prem_stats/PremStatsApplication.class
+com/pl/prem_stats/player/PlayerRepository.class
+com/pl/prem_stats/player/PlayerController.class
+com/pl/prem_stats/player/Player.class
